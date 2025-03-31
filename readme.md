@@ -53,7 +53,9 @@ Le projet utilise SQLite pour stocker les informations des élèves. La table `e
 ## Contribution
 
 Si vous souhaitez contribuer à ce projet, vous pouvez forker le dépôt et proposer des modifications sous forme de pull requests. N'hésitez pas à signaler des bugs ou des améliorations potentielles.
+ ## AUTEUR
 
+ ""cherubin manunga""
 ## Licence
-
+ 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
